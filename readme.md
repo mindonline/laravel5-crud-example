@@ -4,7 +4,8 @@ Simple CRUD with related models and events.
 
 ##Installation
 
-1. Clone repository
-2. Composer Install
+1. clone this repository
+2. composer install
 3. php artisan migrate:refresh --seed
-4. php artisan serve
+4. bower install
+5. php artisan serve
