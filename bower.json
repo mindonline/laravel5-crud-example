@@ -1,0 +1,13 @@
+{
+  "name": "task1",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mikhail Levi"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mindonline/laravel5-crud-example",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
